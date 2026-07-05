@@ -1,0 +1,48 @@
+# Privacy Policy
+Privacy Policy
+Last updated: July 5, 2026
+
+This Privacy Policy describes how WEST Level 2 Wine ("we", "our", or "us") collects, uses, and shares information when you use our mobile application ("the App").
+
+1. Information We Collect
+
+The App does NOT collect, store, or transmit any personal information to our servers. All data you enter or generate within the App is stored locally on your device only.
+
+Specifically, the App may store locally on your device:
+- Quiz and exam results (to track your learning progress)
+- Weak-spot analysis data
+- Mistake review history
+- Daily streak and app usage statistics
+
+2. How We Use Information
+
+All data stored by the App is used exclusively for the following purposes within the App itself:
+- To display your learning progress and statistics
+- To identify weak areas for targeted study
+- To enable the mistake review feature
+- To track daily study streaks
+
+3. Data Storage and Security
+
+All data is stored locally on your device using SQLite databases provided by the Capacitor Community SQLite plugin. No data is transmitted to external servers, third parties, or cloud services. You can clear all stored data at any time by clearing the app data in your device settings.
+
+4. Third-Party Services
+
+The App does not integrate any third-party analytics, advertising, or tracking services. The App requires no user account or registration.
+
+5. Children's Privacy
+
+The App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
+
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after being posted.
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+ivanng611@gmail.com
+
+8. Your Rights
+
+Since the App does not collect any personal data, there is no personal data to access, modify, or delete. You may uninstall the App at any time, which will remove all locally stored data from your device.
